@@ -1,1 +1,1 @@
-Cybertruck model in AR
+Cybertruck model in Web AR
